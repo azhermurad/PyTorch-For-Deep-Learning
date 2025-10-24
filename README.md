@@ -4,7 +4,7 @@ The course follows a **code-first, hands-on approach** and covers everything fro
 
 ---
 
-## 📚 Course Curriculum Overview
+## 📚 Curriculum Overview
 
 | Module | Description |
 |--------|-------------|
